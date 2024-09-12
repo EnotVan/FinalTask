@@ -15,4 +15,4 @@
 
 # Вывод массива в терминал
 
-![Image alt](blockshema final work.jpg)
+![Image alt](BlockS.jpg)
