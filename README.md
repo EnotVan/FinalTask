@@ -15,4 +15,4 @@
 
 # Вывод массива в терминал
 
-![Image alt](https://github.com/EnotVan/FinalTask.git/blockshema%20final%20work.jpg)
+![Image alt](blockshema final work.jpg)
